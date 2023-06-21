@@ -24,7 +24,7 @@ This package implements source code of orderContigsGreedy from [ContiBAIT](https
 Copyright (c) 2015, Kieran O'Neill, Mark Hills, Mike Gottlieb
 
 ## Report Errors
-If you encounter errors of any kind, please report an [issue here](https://github.com/daewoooo/SaaRclust/issues/new).
+If you encounter errors of any kind, please report an [issue here](https://github.com/daewoooo/SaaRclust2/issues/new).
 
 ## NOTE
 SaaRclust2 package is currently under development and contains unpublished work. Any usage for publishing is strictly prohibited without permission.
