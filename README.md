@@ -17,9 +17,7 @@ To install the development version from Github, follow the steps given below. Th
   install.packages("devtools")
 	source("http://bioconductor.org/biocLite.R")
 	library(devtools)
-	install_github("daewoooo/SaaRclust", branch="devel")
-	Or alternatively if the above line doesn't work:
-	install_git("git://github.com/daewoooo/SaaRclust.git", branch = "devel")
+	install_github("daewoooo/SaaRclust2", ref = "main")
 	
 #### External Code
 This package implements source code of orderContigsGreedy from [ContiBAIT](https://bioconductor.org/packages/contiBAIT) package. 
@@ -29,10 +27,5 @@ Copyright (c) 2015, Kieran O'Neill, Mark Hills, Mike Gottlieb
 If you encounter errors of any kind, please report an [issue here](https://github.com/daewoooo/SaaRclust/issues/new).
 
 ## NOTE
-The 'devel' branch of SaaRclust package is currently under development and contains unpublished work. Any usage for publishing is strictly prohibited without permission.
-
-## References
-Ghareghani, M., Porubsky, D., et al. Strand-seq enables reliable separation of long reads by chromosome via expectation maximization. Bioinformatics 34, i115–i123 (2018).
-
-Falconer, Ester, Mark Hills, Ulrike Naumann, Steven S. S. Poon, Elizabeth A. Chavez, Ashley D. Sanders, Yongjun Zhao, Martin Hirst, and Peter M. Lansdorp. 2012. “DNA Template Strand Sequencing of Single-Cells Maps Genomic Rearrangements at High Resolution.” Nature Methods 9 (11): 1107–12.
+SaaRclust2 package is currently under development and contains unpublished work. Any usage for publishing is strictly prohibited without permission.
 
